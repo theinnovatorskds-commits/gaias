@@ -1,0 +1,106 @@
+{
+  "placeholderImages": [
+    {
+      "id": "kyoto-cover",
+      "description": "Cover image for Kyoto trip",
+      "imageUrl": "https://images.unsplash.com/photo-1632923754832-60642c12a7ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxreW90byUyMGphcGFufGVufDB8fHx8MTc2NTcxMTM1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kyoto japan"
+    },
+    {
+      "id": "patagonia-cover",
+      "description": "Cover image for Patagonia trip",
+      "imageUrl": "https://images.unsplash.com/photo-1631249802250-33298b111f8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwYXRhZ29uaWElMjBtb3VudGFpbnN8ZW58MHx8fHwxNzY1NzExMzU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "patagonia mountains"
+    },
+    {
+      "id": "rome-cover",
+      "description": "Cover image for Rome trip",
+      "imageUrl": "https://images.unsplash.com/photo-1668171321834-658179e37f5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyb21lJTIwY29sb3NzZXVtfGVufDB8fHx8MTc2NTY0MzQ5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rome colosseum"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for Alex",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjU2NzI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "Avatar for Sam",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwc21pbGluZ3xlbnwwfHx8fDE3NjU2ODU0ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "user-avatar-3",
+      "description": "Avatar for Taylor",
+      "imageUrl": "https://images.unsplash.com/photo-1679611978819-f10168367155?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMGZhY2V8ZW58MHx8fHwxNzY1NzA1Njk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman face"
+    },
+    {
+      "id": "user-avatar-4",
+      "description": "Avatar for Jordan",
+      "imageUrl": "https://images.unsplash.com/photo-1599834562135-b6fc90e642ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYW4lMjBmYWNlfGVufDB8fHx8MTc2NTYzODA0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man face"
+    },
+    {
+      "id": "fushimi-inari",
+      "description": "Fushimi Inari Shrine",
+      "imageUrl": "https://images.unsplash.com/photo-1697783834532-d12c8849a368?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzaHJpbmUlMjBqYXBhbnxlbnwwfHx8fDE3NjU3MTEzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shrine japan"
+    },
+    {
+      "id": "arashiyama-bamboo",
+      "description": "Arashiyama Bamboo Grove",
+      "imageUrl": "https://images.unsplash.com/photo-1565178117145-41db4d572950?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiYW1ib28lMjBmb3Jlc3R8ZW58MHx8fHwxNzY1Njk0MjYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bamboo forest"
+    },
+    {
+      "id": "kinkaku-ji",
+      "description": "Kinkaku-ji Temple",
+      "imageUrl": "https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnb2xkZW4lMjB0ZW1wbGV8ZW58MHx8fHwxNzY1NzExMzU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "golden temple"
+    },
+    {
+      "id": "colosseum",
+      "description": "The Colosseum in Rome",
+      "imageUrl": "https://images.unsplash.com/photo-1667328065719-77ee4f71ac0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb2xvc3NldW0lMjByb21lfGVufDB8fHx8MTc2NTcxMTM1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "colosseum rome"
+    },
+    {
+      "id": "mount-fitz-roy",
+      "description": "Mount Fitz Roy in Patagonia",
+      "imageUrl": "https://images.unsplash.com/photo-1708738070404-0f6442d1aa90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmaXR6JTIwcm95fGVufDB8fHx8MTc2NTcxMTM1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitz roy"
+    },
+    {
+      "id": "eiffel-tower",
+      "description": "Eiffel Tower in Paris",
+      "imageUrl": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYXJpcyUyMGVpZmZlbCUyMHRvd2VyfGVufDB8fHx8MTc2NzgwMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paris france"
+    },
+    {
+      "id": "giza-pyramids",
+      "description": "Pyramids of Giza",
+      "imageUrl": "https://images.unsplash.com/photo-1628503218283-6ddeac69dfea?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "egypt pyramids"
+    },
+    {
+      "id": "taj-mahal",
+      "description": "Taj Mahal in Agra",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0YWolMjBtYWhhbHxlbnwwfHx8fDE3Njc4MDAwMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "india agra"
+    },
+    {
+      "id": "earth-from-space",
+      "description": "Image of earth from space for loading screen",
+      "imageUrl": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "earth space"
+    },
+    {
+      "id": "new-trip-placeholder",
+      "description": "Placeholder for a new trip",
+      "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0cmF2ZWx8ZW58MHx8fHwxNzY3ODAwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel destination"
+    }
+  ]
+}
